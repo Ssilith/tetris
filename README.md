@@ -1,3 +1,3 @@
 # tetris
  
-Simple tetris game in Flutter.
+Simple tetris game written in Flutter.
